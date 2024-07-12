@@ -3,7 +3,11 @@ This is a responsive e-commerce website frontend project created using HTML, CSS
 
 
 
-STEPS : 1. cd frontend
+STEPS : 
+
+
+
+        1. cd frontend
         
         
         
