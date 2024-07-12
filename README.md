@@ -4,6 +4,12 @@ This is a responsive e-commerce website frontend project created using HTML, CSS
 
 
 STEPS : 1. cd frontend
+        
+        
+        
         2. npm i
+        
+        
+        
         3. npm start
         
